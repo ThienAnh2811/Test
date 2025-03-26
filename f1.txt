@@ -1,2 +1,2 @@
-test nhanh - edid lan 2 - edit lan 4
+test nhanh - edid lan 2 - edit lan 4 +  222
 main 1
